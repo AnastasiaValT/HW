@@ -33,10 +33,10 @@ git push
 
 cat >> new.json
 {
-"First ad Last name": "Anastasia Triphonova",
+"First_and_Last_name": "Anastasia Triphonova",
 "age":100,
-"number of pets":0,
-"desired salary":1000000
+"number_of_ets":0,
+"desired_salary":1000000
 }
 
 11. Отправить изменения на внешний репозиторий.
@@ -55,11 +55,11 @@ touch preferences.json
 
 cat >>preferences.json
 {
-"favourite movie":"House of Gucci",
-"favourite soap opera":"Clinic",
-"favourite food":"Kleftiko",
-"favourite season":"Summer",
-"the country you want to visit":"Japan"
+"favourite_movie":"House of Gucci",
+"favourite_soap_opera":"Clinic",
+"favourite_food":"Kleftiko",
+"favourite_season":"Summer",
+"the_country_you_want_to_visit":"Japan"
 }
  
 
